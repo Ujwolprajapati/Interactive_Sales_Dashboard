@@ -4,3 +4,5 @@ Problem- An owner of a coffee shop find it hard to keep track of sales he want t
 
 
 Objective : To build an Interactive dashboard that will automatically update if made changes in tables and can be interactive to get the best information about the business.
+
+you can read the blog for this project here : https://medium.com/@prajapatiujwol9/interactive-sales-dashboard-only-using-excel-193352759eb4
